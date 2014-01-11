@@ -1,9 +1,16 @@
 All of this data doesn't really apply to you, does it?  It's about me.
 
-At the same time, whatever you find useful in the form of text or whatever from
+At the same time, licensing for random data which is available is important
+because the intention of the author is important.  Michael Janssen knows about
+how license intermingle and has worked on code that was under GPL, LGPL, BSD,
+MIT, X11, Artistic, WTFPL, and other licenses.  I know how licenses work and
+which ones can be mixed together without running afowl of the law.
+
+Whatever you find useful in the form of text or whatever from
 here that you want to reuse is fine by me.
 
-Officially, this is licensed under the Unlicense, which is repeated here:
+Officially, this repository is licensed under the Unlicense, which is repeated
+here for officialness:
 
 This is free and unencumbered software released into the public domain.
 
