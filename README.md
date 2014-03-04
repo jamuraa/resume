@@ -15,8 +15,7 @@ so I can create custom resumes as a subset of all this data.
 
 Note: Contact info is left out, but you can email me at m@base0.net
 if you want.  I'm not currently actively looking
-for a position, but have open consulting time and am not an idiot if
-you're rich and want to give me a large pile of your money.
+for a position, but I do have limited consulting hours available each week.
 
 ## Legend
 
